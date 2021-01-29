@@ -1,0 +1,54 @@
+
+.user-form-root {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.user-form-heading {
+    margin: 20px;
+}
+
+.user-form-pic {
+    border-radius: 100%;
+    width: 150px;
+    border: black solid 3px;
+    margin-bottom: 20px;
+}
+
+.user-form-table {
+    margin: auto;
+    text-align: left;
+    border-spacing: 10px;
+}
+
+.user-form-tr {
+    position: relative;
+}
+
+.td-error-msg {
+    position: absolute;
+}
+
+.error-msg {
+    color: red;
+    margin: 5px;
+}
+
+.success-msg {
+    color: green;
+    margin: 5px;
+}
+
+.user-form-btn {
+    background-color: #cdcdcd;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.user-form-btn:hover {
+    background-color: #dadada;
+}
