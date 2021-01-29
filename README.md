@@ -1,4 +1,4 @@
-Design: There are 13 types of components in our implementation:
+Design: There are 13 types of components in the implementation.
 
 Main component:
 1. App: The main component, holds fields related to the application mode such as isConnected and isLoaded.
