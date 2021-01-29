@@ -1,3 +1,6 @@
+Restaurant reviews web application - A full stack project in Javascript based on React frontend, 
+and Express on top of Node in the backend using MongoDB and Mongoose.
+
 Design: There are 13 types of components in the implementation.
 
 Main components:
