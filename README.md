@@ -1,6 +1,6 @@
 Design: There are 13 types of components in the implementation.
 
-Main component:
+Main components:
 1. App: The main component, holds fields related to the application mode such as isConnected and isLoaded.
 2. TopBar: The app menu, has the following tabs: 
     Login and Register - when the user is not connected.
@@ -27,7 +27,7 @@ Review components:
 
 
 To start the server:
-1. start mongodb using mongod
+1. Start mongodb using mongod
 2. node src\server\server.js # backend
 3. npm run dev # frontend
 
